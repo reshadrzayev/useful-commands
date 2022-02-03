@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/useful-commands/static/css/main.e902b451.chunk.css",
+    "main.js": "/useful-commands/static/js/main.be279ec3.chunk.js",
+    "main.js.map": "/useful-commands/static/js/main.be279ec3.chunk.js.map",
+    "runtime-main.js": "/useful-commands/static/js/runtime-main.1caea362.js",
+    "runtime-main.js.map": "/useful-commands/static/js/runtime-main.1caea362.js.map",
+    "static/js/2.27bfb6f2.chunk.js": "/useful-commands/static/js/2.27bfb6f2.chunk.js",
+    "static/js/2.27bfb6f2.chunk.js.map": "/useful-commands/static/js/2.27bfb6f2.chunk.js.map",
+    "index.html": "/useful-commands/index.html",
+    "static/css/main.e902b451.chunk.css.map": "/useful-commands/static/css/main.e902b451.chunk.css.map",
+    "static/js/2.27bfb6f2.chunk.js.LICENSE.txt": "/useful-commands/static/js/2.27bfb6f2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/useful-commands/static/media/FiraCode-Regular.1bda004d.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1caea362.js",
+    "static/js/2.27bfb6f2.chunk.js",
+    "static/css/main.e902b451.chunk.css",
+    "static/js/main.be279ec3.chunk.js"
+  ]
+}
